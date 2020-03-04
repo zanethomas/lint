@@ -1,0 +1,23 @@
+{
+  "name": "lint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanethomas/lint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zanethomas/lint/issues"
+  },
+  "homepage": "https://github.com/zanethomas/lint#readme",
+  "dependencies": {
+    "mysql2": "^2.1.0"
+  }
+}
